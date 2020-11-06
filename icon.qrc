@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/play.png</file>
+        <file>icon/next.png</file>
+        <file>icon/up.png</file>
+        <file>icon/pause.png</file>
+        <file>icon/list.png</file>
+        <file>icon/music.png</file>
+        <file>icon/weather_app.png</file>
+        <file>icon/video.png</file>
+        <file>icon/end.png</file>
+        <file>icon/retreat.png</file>
+        <file>icon/speed .png</file>
+        <file>icon/seting.png</file>
+        <file>icon/shutdown.png</file>
+        <file>icon/lrc.png</file>
+        <file>icon/ditu.png</file>
+        <file>icon/ditu2.png</file>
+    </qresource>
+</RCC>

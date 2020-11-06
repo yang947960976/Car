@@ -1,0 +1,13 @@
+lcdclock.o
+main.o
+car.o
+music.o
+video.o
+weather.o
+qrc_icon.o
+qrc_weathercn.o
+moc_car.o
+moc_lcdclock.o
+moc_music.o
+moc_video.o
+moc_weather.o

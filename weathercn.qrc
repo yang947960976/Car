@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>weathercn/0.png</file>
+        <file>weathercn/1.png</file>
+        <file>weathercn/2.png</file>
+        <file>weathercn/3.png</file>
+        <file>weathercn/4.png</file>
+        <file>weathercn/5.png</file>
+        <file>weathercn/6.png</file>
+        <file>weathercn/7.png</file>
+        <file>weathercn/8.png</file>
+        <file>weathercn/9.png</file>
+        <file>weathercn/10.png</file>
+        <file>weathercn/11.png</file>
+        <file>weathercn/12.png</file>
+        <file>weathercn/13.png</file>
+        <file>weathercn/14.png</file>
+        <file>weathercn/15.png</file>
+        <file>weathercn/16.png</file>
+        <file>weathercn/17.png</file>
+        <file>weathercn/18.png</file>
+        <file>weathercn/19.png</file>
+        <file>weathercn/20.png</file>
+        <file>weathercn/21.png</file>
+        <file>weathercn/22.png</file>
+        <file>weathercn/23.png</file>
+        <file>weathercn/24.png</file>
+        <file>weathercn/25.png</file>
+        <file>weathercn/26.png</file>
+        <file>weathercn/27.png</file>
+        <file>weathercn/28.png</file>
+        <file>weathercn/29.png</file>
+        <file>weathercn/30.png</file>
+        <file>weathercn/31.png</file>
+        <file>weathercn/32.png</file>
+        <file>weathercn/49.png</file>
+        <file>weathercn/53.png</file>
+        <file>weathercn/54.png</file>
+        <file>weathercn/55.png</file>
+        <file>weathercn/56.png</file>
+        <file>weathercn/57.png</file>
+        <file>weathercn/58.png</file>
+        <file>weathercn/99.png</file>
+        <file>weathercn/301.png</file>
+        <file>weathercn/302.png</file>
+    </qresource>
+</RCC>
